@@ -1,0 +1,8 @@
+What section of town do you want to look at first?
+What seems to be trouble?
+In what city are you looking for apartments in?
+What type of apartment do you want to live in?
+What are you specifically looking for?
+Have you visited the housing office.  They can help.
+Are you looking for a studio apartment or are you living with roommates?
+I can help you find some leads.

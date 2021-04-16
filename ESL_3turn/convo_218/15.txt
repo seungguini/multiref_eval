@@ -1,0 +1,8 @@
+OK can you fill this out?
+Ok let me see your ID.
+Great, I can help you.
+What kind of card do you want?
+Do you live in the county?
+Wonderful.  Did you know you can use this card anywhere in the city?
+Are you a student here?
+Did you have one elsewhere?

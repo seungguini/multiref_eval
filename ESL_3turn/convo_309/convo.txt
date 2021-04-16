@@ -1,0 +1,1 @@
+['<b>A:</b> I have decided to drop out of college.', ""<b>B:</b> You're making the worst decision of your life."", ""<b>A:</b> I just don't get the point of college. It's just memorizing.""]"

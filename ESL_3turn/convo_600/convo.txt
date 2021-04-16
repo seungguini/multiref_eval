@@ -1,0 +1,1 @@
+['<b>A:</b> Which is the lightning and which is the thunder?', '<b>B:</b> Lightning lights up the sky.', '<b>A:</b> And what about thunder?']"

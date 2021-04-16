@@ -1,0 +1,1 @@
+I thought you were going to cook dinner today.</s> I've been working all day.<\s> Yeah, but you work from home. That doesn't count.

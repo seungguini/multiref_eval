@@ -1,0 +1,1 @@
+['<b>A:</b> I hate looking for an apartment.', '<b>B:</b> Me, too.', ""<b>A:</b> We have a 2 o'clock appointment to see the one on Main Street.""]"

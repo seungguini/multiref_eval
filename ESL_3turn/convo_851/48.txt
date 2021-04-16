@@ -1,0 +1,8 @@
+Do you have cash?
+Here, you can use mine.
+Do you have cash on you?
+Try the other way.
+Maybe the reader's broken.
+That's fine this time.  Get on.
+I'll go find someone to help.
+That's sucks.

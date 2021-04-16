@@ -1,0 +1,8 @@
+I see it. I'll go ahead and cancel that table for 6 people at 6 p.m. this evening, under the name Carlos Jones.
+I'll need some further information
+I got that! Your reservation is now cancelled.
+I don't see that. Is it for today?
+We cannot cancel a reservation at this point
+OK, I've taken care of that cancellation. Would you like to reserve a table for a different day or time?
+Is that the reservation for tomorrow at 7:30 pm?
+What was the time frame of your reservation?

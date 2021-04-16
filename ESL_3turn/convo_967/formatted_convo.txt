@@ -1,0 +1,1 @@
+I am doing poorly in my history class.</s> What is your grade?<\s> I have an F.

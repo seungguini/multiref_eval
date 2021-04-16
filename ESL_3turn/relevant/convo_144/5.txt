@@ -1,0 +1,8 @@
+Do you have a first aid kit?
+You should have been wearing safety gloves!
+Let me take a look at it.
+Do you need stitches?
+Do you have any ice?
+Can I help you?
+Want a bandaid?
+Apply pressure.

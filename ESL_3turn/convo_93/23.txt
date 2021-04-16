@@ -1,0 +1,8 @@
+Do you have a savings account as well?
+Okay, what's your account number?
+Is that where you would like it deposited?
+Okay then let's get you started.
+Is there enough money in your account to cover the check if it bounces?
+Would you like to use that account or open a new one?
+Have you filled out any of the paperwork yet or do you need the forms?
+May I see your ID card so that I can pull up your account?

@@ -1,0 +1,1 @@
+['<b>A:</b> You in the green shirt!', '<b>B:</b> Are you talking to me?', ""<b>A:</b> You're the only one here in a green shirt.""]"

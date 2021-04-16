@@ -1,0 +1,1 @@
+['<b>A:</b> Why are you spraying pesticides?', '<b>B:</b> To kill the insects in the garden.', '<b>A:</b> Not all insects are bad.']"

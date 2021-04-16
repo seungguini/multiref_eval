@@ -1,0 +1,1 @@
+Hello, I would like to buy a bus pass.</s> Do you have a card to use for your pass?<\s> What kind of card do I need?

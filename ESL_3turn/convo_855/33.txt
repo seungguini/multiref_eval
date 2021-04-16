@@ -1,0 +1,8 @@
+S BOTH DOOR EQUIP WITH LOCKS
+Yes both front and back doors have locks.
+DID YOU NEED TO SEE
+They do, but only the front has a key.
+Yes, and a deadbolt.
+You need a password to walk into the building.
+Only the front door needs a passcode.
+How safe is this neighborhood?

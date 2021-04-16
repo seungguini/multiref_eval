@@ -1,0 +1,1 @@
+['<b>A:</b> People who live in California are crazy.', '<b>B:</b> Why is that?', '<b>A:</b> Because of all the earthquakes and fires.']"

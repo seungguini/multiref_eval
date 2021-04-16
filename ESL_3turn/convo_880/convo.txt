@@ -1,0 +1,1 @@
+['<b>A:</b> I hate proxy voting.', ""<b>B:</b> What's proxy voting?"", ""<b>A:</b> It's when a vote can be made for you by a committee.""]"

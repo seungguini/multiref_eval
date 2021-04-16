@@ -1,0 +1,1 @@
+['<b>A:</b> Is there a copy machine for guests?', '<b>B:</b> Yes, we have copy machines in our business center, which is to your right.', '<b>A:</b> I need to make a color copy.']"

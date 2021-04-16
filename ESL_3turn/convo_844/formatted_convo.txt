@@ -1,0 +1,1 @@
+Do you have the floor plan to the apartment?</s> Yes I do. Would you like to take a look at it?<\s> Yes I would, if you don't mind.

@@ -1,0 +1,1 @@
+['<b>A:</b> Are you going to go out with John?', '<b>B:</b> No, I decided not to.', '<b>A:</b> Why not? He is such a good man.']"

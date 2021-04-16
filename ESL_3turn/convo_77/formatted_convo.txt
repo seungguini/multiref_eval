@@ -1,0 +1,1 @@
+Do you have a girlfriend?</s> No, I don't. Do you?<\s> I don't have a girlfriend, either.

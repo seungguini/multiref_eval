@@ -1,0 +1,1 @@
+['<b>A:</b> Did you fasten your seatbelt?', '<b>B:</b> It bothers my neck.', ""<b>A:</b> Just adjust the strap so it doesn't bother you.""]"

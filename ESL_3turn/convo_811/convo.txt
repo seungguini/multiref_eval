@@ -1,0 +1,1 @@
+['<b>A:</b> Thank you for coming so quickly.', '<b>B:</b> What seems to be the problem?', '<b>A:</b> All the channels suddenly stopped working.']"

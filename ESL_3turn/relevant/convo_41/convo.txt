@@ -1,0 +1,1 @@
+['<b>A:</b> Mr. Lee, the seller has made a counteroffer on his home.', '<b>B:</b> He did not accept my original offer?', '<b>A:</b> Technically he did, but he has conditions.']"

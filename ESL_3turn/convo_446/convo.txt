@@ -1,0 +1,1 @@
+['<b>A:</b> Can I have a minute?', '<b>B:</b> What is going on?', ""<b>A:</b> I'm really not feeling very well this afternoon.""]"

@@ -1,0 +1,1 @@
+['<b>A:</b> I am so sick of dining hall food.', ""<b>B:</b> Me too! It's so unhealthy."", '<b>A:</b> We should go to a restaurant nearby.']"

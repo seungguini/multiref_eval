@@ -1,0 +1,1 @@
+[""<b>A:</b> I'm sorry, but your card was declined."", '<b>B:</b> This is my ATM card and I know I have money in my account.', '<b>A:</b> Maybe you have less money in the account than you thought.']"

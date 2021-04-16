@@ -1,0 +1,1 @@
+['<b>A:</b> How much does it cost to ride the bus?', '<b>B:</b> The cost is one dollar and fifty cents.', ""<b>A:</b> I'm going to have to spend nearly ten dollars today on just bus fare alone.""]"

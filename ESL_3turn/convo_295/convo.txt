@@ -1,0 +1,1 @@
+['<b>A:</b> What brings you in to see me today?', ""<b>B:</b> I'm here for my annual check-up."", '<b>A:</b> Well, the nurse already took your blood pressure and she said it looks a little high.']"

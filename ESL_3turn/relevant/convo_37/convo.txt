@@ -1,0 +1,1 @@
+['<b>A:</b> Have you gone to vote today?', ""<b>B:</b> I didn't even know there was an election."", ""<b>A:</b> Didn't you get the pamphlet?""]"

@@ -1,0 +1,8 @@
+S BOTH DOOR EQUIP WITH LOCKS
+Yes, they all have locks.
+Yes both front and back doors have locks.
+DID YOU NEED TO SEE
+They do, but only the front has a key.
+You need a password to walk into the building.
+Is there an alarm system?
+Yes, and the front has two locks - your apartment lock and an exterior building lock.

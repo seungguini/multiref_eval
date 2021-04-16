@@ -1,0 +1,1 @@
+What is in this can?</s> I don't know; it doesn't have a label.<\s> It looks like a corned beef can.

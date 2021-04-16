@@ -1,0 +1,1 @@
+['<b>A:</b> Why are you holding your mouth?', '<b>B:</b> I think I cracked a tooth. It hurts so much.', '<b>A:</b> Did you look in the mirror?']"

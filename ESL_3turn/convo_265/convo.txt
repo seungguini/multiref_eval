@@ -1,0 +1,1 @@
+['<b>A:</b> Golf is so hard.', ""<b>B:</b> What's so hard about hitting a little white ball?"", ""<b>A:</b> It's hard if you want to do it right.""]"

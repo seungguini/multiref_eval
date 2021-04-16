@@ -1,0 +1,1 @@
+Is there a gym in this hotel?</s> Yes, the fitness center is located on the third floor.<\s> Is there a charge for me to use it?

@@ -1,0 +1,1 @@
+['<b>A:</b> Did you hear about the ID enforcement?', ""<b>B:</b> No, what's that?"", ""<b>A:</b> It's a law requiring voters to show ID before voting.""]"

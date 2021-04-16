@@ -1,0 +1,1 @@
+['<b>A:</b> We only have to ride for one stop.', '<b>B:</b> Yeah, then we have a bus transfer.', ""<b>A:</b> Let's sit here by the door.""]"

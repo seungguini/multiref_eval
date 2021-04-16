@@ -1,0 +1,1 @@
+['<b>A:</b> Quick! Get in here and wait out the storm!', '<b>B:</b> Oh, my word. Thank you so much.', ""<b>A:</b> It's raining cats and dogs out there.""]"

@@ -1,0 +1,1 @@
+['<b>A:</b> Did you get your Official Sample Ballot?', '<b>B:</b> Yes, with the Voter Instructions.', '<b>A:</b> How are you going to vote?']"

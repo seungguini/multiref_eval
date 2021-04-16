@@ -1,0 +1,1 @@
+['<b>A:</b> Have you ever been to the opera before?', ""<b>B:</b> No, but I hear it's very beautiful."", '<b>A:</b> Is it true that opera is sung in a foreign language?']"

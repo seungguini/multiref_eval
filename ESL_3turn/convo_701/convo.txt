@@ -1,0 +1,1 @@
+['<b>A:</b> Does this hat match my suit?', ""<b>B:</b> Well, it's the same color."", ""<b>A:</b> That's good enough for me.""]"

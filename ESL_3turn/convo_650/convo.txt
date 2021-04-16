@@ -1,0 +1,1 @@
+['<b>A:</b> Put the rock back where you found it.', '<b>B:</b> But I like the rock, mommy.', '<b>A:</b> So do the animals that live here.']"

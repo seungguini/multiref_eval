@@ -1,0 +1,1 @@
+Hello, officer. I want to report a car accident.</s> What was the cause of the accident?<\s> The other driver had been drinking.

@@ -1,0 +1,8 @@
+What section of town do you want to look at first?
+I can help you with that.
+What seems to be trouble?
+Have you visited the housing office.  They can help.
+Are you looking for a studio apartment or are you living with roommates?
+Do you lack motivation?
+What is your price range for rent?
+You should make a list of things to do.

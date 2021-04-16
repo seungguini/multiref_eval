@@ -1,0 +1,1 @@
+['<b>A:</b> Is the location of the apartment a good one?', '<b>B:</b> Yes. I would say so.', '<b>A:</b> Why is that?']"

@@ -1,0 +1,1 @@
+['<b>A:</b> I finally found an apartment to move in.', ""<b>B:</b> That's great to hear. Kudos to you."", ""<b>A:</b> Thanks, it wasn't easy finding one.""]"

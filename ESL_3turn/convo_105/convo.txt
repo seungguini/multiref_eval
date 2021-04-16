@@ -1,0 +1,1 @@
+['<b>A:</b> Have you checked your smoke detectors recently?', ""<b>B:</b> No, I wasn't even aware we had smoke detectors."", ""<b>A:</b> All the apartments are equipped with them. It's an essential safety feature.""]"

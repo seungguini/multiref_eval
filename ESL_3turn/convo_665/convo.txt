@@ -1,0 +1,1 @@
+['<b>A:</b> Do you hate flying as much as I do?', '<b>B:</b> Only when I have chatty seatmates.', '<b>A:</b> You look like a business traveler, am I right?']"

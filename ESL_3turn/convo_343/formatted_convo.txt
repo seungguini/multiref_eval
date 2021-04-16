@@ -1,0 +1,1 @@
+Do you have a cold?</s> Yes, I do.<\s> How did you get it?

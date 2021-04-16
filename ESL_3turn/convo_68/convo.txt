@@ -1,0 +1,1 @@
+['<b>A:</b> Look! The bus is coming!', ""<b>B:</b> Let's see if we can cross the street in time to catch it."", ""<b>A:</b> I don't think we are going to make it.""]"

@@ -1,0 +1,1 @@
+What's the weather like?</s> I don't know. I just woke up.<\s> Why don't you look outside?

@@ -1,0 +1,1 @@
+['<b>A:</b> Wow! Our order is sure taking long.', ""<b>B:</b> Yes, it is. It's been nearly 45 minutes now."", ""<b>A:</b> Well, maybe they're just very busy.""]"

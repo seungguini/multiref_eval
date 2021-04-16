@@ -1,0 +1,1 @@
+['<b>A:</b> Excuse me, where can I find a dictionary?', '<b>B:</b> What kind of dictionary would you like?', '<b>A:</b> A bilingual dictionary would be nice.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Where do you live?', '<b>B:</b> I live in Pasadena.', '<b>A:</b> Where is Pasadena?']"

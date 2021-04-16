@@ -1,0 +1,1 @@
+['<b>A:</b> I cut myself pretty badly with a knife. I think I need stitches.', '<b>B:</b> Come inside so the triage nurse can stop the bleeding.', '<b>A:</b> I was just preparing dinner and my hand slipped.']"

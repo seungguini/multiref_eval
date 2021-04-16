@@ -1,0 +1,1 @@
+['<b>A:</b> You have so many portraits on your wall!', ""<b>B:</b> I love displaying all the pictures I've taken."", '<b>A:</b> How do you hang all the picture frames?']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Are you okay? You look really sad.', ""<b>B:</b> I'm homesick. I feel so out of place here."", '<b>A:</b> But this college is so awesome.']"

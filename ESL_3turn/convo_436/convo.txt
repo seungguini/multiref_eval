@@ -1,0 +1,1 @@
+['<b>A:</b> That was a nice funeral.', '<b>B:</b> Yes, dad, it was.', '<b>A:</b> The son gave a nice speech about his father.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Is it me or does this water taste weird?', '<b>B:</b> It tastes weird.', ""<b>A:</b> I'm glad it's not just me.""]"

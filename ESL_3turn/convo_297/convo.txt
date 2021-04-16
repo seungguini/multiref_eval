@@ -1,0 +1,1 @@
+['<b>A:</b> I want to close my account.', ""<b>B:</b> We're sorry to lose you as a customer. Can I ask why?"", '<b>A:</b> I keep getting hit by fees.']"

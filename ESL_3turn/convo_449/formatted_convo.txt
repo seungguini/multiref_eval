@@ -1,0 +1,1 @@
+My computer won't turn on.</s> Did you charge the battery?<\s> Yes, I charged it all night.

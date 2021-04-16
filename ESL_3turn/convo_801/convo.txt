@@ -1,0 +1,1 @@
+[""<b>A:</b> I'll pay the restaurant bill."", ""<b>B:</b> No, I'll pay."", ""<b>A:</b> You always pay. I'll do it this time.""]"

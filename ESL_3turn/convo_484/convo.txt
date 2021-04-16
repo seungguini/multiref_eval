@@ -1,0 +1,1 @@
+['<b>A:</b> I eat the same thing every day.', ""<b>B:</b> You're kidding."", ""<b>A:</b> No, I'm serious.""]"

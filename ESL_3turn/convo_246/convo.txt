@@ -1,0 +1,1 @@
+['<b>A:</b> I had the worst date the other night.', '<b>B:</b> What happened?', '<b>A:</b> First of all, he was half an hour late.']"

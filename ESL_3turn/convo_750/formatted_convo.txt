@@ -1,0 +1,1 @@
+I have a stomachache.</s> Is it something you ate?<\s> Maybe. I'm not sure.

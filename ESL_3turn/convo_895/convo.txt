@@ -1,0 +1,1 @@
+['<b>A:</b> What fees does this bank charge?', '<b>B:</b> There are different fees depending on the kind of account you have with us.', '<b>A:</b> I have a basic checking account.']"

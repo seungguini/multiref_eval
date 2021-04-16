@@ -1,0 +1,1 @@
+['<b>A:</b> Thank you for calling Eagle Airline.', '<b>B:</b> I would like to book a round trip flight from Los Angeles to New York City', '<b>A:</b> What date do you want to leave Los Angeles?']"

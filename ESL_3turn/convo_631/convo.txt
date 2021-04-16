@@ -1,0 +1,1 @@
+['<b>A:</b> It sure is windy today.', '<b>B:</b> Paper is flying everywhere.', '<b>A:</b> This wind is dangerous for drivers.']"

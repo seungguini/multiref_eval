@@ -1,0 +1,1 @@
+['<b>A:</b> Why is this soccer ball pink?', '<b>B:</b> I bought it at the breast cancer fair.', '<b>A:</b> I thought that all soccer balls are black and white.']"

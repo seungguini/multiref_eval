@@ -1,0 +1,1 @@
+['<b>A:</b> I realize that I hate my job.', ""<b>B:</b> What's wrong with it?"", '<b>A:</b> I always have to treat customers like royalty.']"

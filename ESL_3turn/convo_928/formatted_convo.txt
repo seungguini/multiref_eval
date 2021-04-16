@@ -1,0 +1,1 @@
+How are you enjoying the party?</s> Well, the food is good.<\s> You don't sound very excited.

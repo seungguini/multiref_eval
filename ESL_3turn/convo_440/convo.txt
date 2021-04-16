@@ -1,0 +1,1 @@
+['<b>A:</b> Is this your first time riding the bus?', '<b>B:</b> Yes, it is. How did you tell?', '<b>A:</b> The look on your face gave it away.']"

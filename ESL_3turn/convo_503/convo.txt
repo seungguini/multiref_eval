@@ -1,0 +1,1 @@
+['<b>A:</b> That was a huge fire in Santa Barbara.', '<b>B:</b> Yes, it was.', '<b>A:</b> They said about 30 houses burned to the ground.']"

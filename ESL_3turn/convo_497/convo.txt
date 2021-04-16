@@ -1,0 +1,1 @@
+['<b>A:</b> Tomorrow is show and tell.', '<b>B:</b> Yeah, I know.', '<b>A:</b> I am bringing my new purse for show and tell.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> How do you plea to the charges?', '<b>B:</b> I plead not guilty.', '<b>A:</b> There are several witnesses that can testify to you being the robber.']"

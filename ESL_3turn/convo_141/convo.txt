@@ -1,0 +1,1 @@
+['<b>A:</b> The prices on fruit have really gone up this year!', ""<b>B:</b> Yes, they have. It's ridiculous!"", '<b>A:</b> The fruit is not of good quality, either.']"

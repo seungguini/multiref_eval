@@ -1,0 +1,1 @@
+['<b>A:</b> Wow, you really look terrible.', '<b>B:</b> Thanks a lot. I really feel awful.', ""<b>A:</b> I'm a nurse ,so you should tell me your symptoms.""]"

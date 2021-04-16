@@ -1,0 +1,1 @@
+['<b>A:</b> How smart are you?', ""<b>B:</b> I don't know. I think I'm average."", '<b>A:</b> Did you ever take an IQ test?']"

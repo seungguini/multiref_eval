@@ -1,0 +1,8 @@
+With a basic checking account, you pay a flat monthly fee of $20.
+Then you have no fees to pay.
+You only have a fee if you don't deposit at least $500 a month.
+The monthly fee is five dollars.
+Actually there aren't any fees associated with a basic checking account.
+Would you like to upgrade your account?
+There are no fees associated with your account.
+Unless you have an overdraft fee of thirty four dollars, there is no fee.

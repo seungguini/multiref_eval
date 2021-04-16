@@ -1,0 +1,1 @@
+['<b>A:</b> The cute girl from class added me on Facebook.', '<b>B:</b> Has she sent you any messages?', ""<b>A:</b> Not yet. I'm still waiting.""]"

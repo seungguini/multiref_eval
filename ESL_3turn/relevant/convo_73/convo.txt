@@ -1,0 +1,1 @@
+['<b>A:</b> Having a new president will change the course of history.', '<b>B:</b> Why do you say that?', '<b>A:</b> Well, Obama was our first black president. Now we have our first woman.']"

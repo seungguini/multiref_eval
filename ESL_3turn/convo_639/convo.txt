@@ -1,0 +1,1 @@
+['<b>A:</b> Good afternoon! This is the Beach Palace Hotel. How can I help you?', '<b>B:</b> Do you have any rooms available for this weekend?', '<b>A:</b> Yes. How many nights will you be staying?']"

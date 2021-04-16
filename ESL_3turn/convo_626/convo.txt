@@ -1,0 +1,1 @@
+['<b>A:</b> I have a really bad headache. What do you recommend?', '<b>B:</b> You can purchase some over-the-counter pain relievers in aisle 6.', '<b>A:</b> Do I need a prescription for those?']"

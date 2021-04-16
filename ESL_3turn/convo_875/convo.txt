@@ -1,0 +1,1 @@
+['<b>A:</b> My dad bought me a can of pepper spray.', ""<b>B:</b> Isn't that what police use on bad guys?"", ""<b>A:</b> Yes, it's supposed to sting your eyes.""]"

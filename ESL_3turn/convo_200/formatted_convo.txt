@@ -1,0 +1,1 @@
+What bus do we need to take?</s> We need to take the Metro.<\s> The metro bus stop isn't here!

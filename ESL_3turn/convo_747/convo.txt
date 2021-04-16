@@ -1,0 +1,1 @@
+['<b>A:</b> Do you think you can identify the man you saw robbing the woman outside the bank?', '<b>B:</b> I think I remember what he looked like.', '<b>A:</b> Please take a look at the six men lined up.']"

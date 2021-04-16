@@ -1,0 +1,1 @@
+The man getting on the bus is in a wheelchair.</s> The driver has to adjust the seats.<\s> What will he do to them?

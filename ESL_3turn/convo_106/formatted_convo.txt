@@ -1,0 +1,1 @@
+What time does your plane leave?</s> It leaves at 12:15.<\s> When do you have to be at the airport?

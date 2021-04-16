@@ -1,0 +1,1 @@
+['<b>A:</b> Excuse me. Can you give me a minute of your time?', ""<b>B:</b> Sure, I don't see why not."", ""<b>A:</b> Thank you kindly. I'm pretty new in town, and I think I might be lost.""]"

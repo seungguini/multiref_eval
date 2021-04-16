@@ -1,0 +1,1 @@
+['<b>A:</b> I got accepted to all of the schools I applied to.', '<b>B:</b> Congrats! You totally deserve it.', '<b>A:</b> How many schools did you apply to?']"

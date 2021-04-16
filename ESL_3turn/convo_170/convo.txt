@@ -1,0 +1,1 @@
+['<b>A:</b> Why are you eating another apple?', '<b>B:</b> You know what they say about apples!', ""<b>A:</b> No, I'm afraid I don't know.""]"

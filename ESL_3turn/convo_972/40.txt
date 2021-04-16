@@ -1,0 +1,8 @@
+I got that! Your reservation is now cancelled.
+ok and can you confirm your name please?
+I don't have a reservation under that name.
+I have to get my manager
+We cannot cancel a reservation at this point
+OK, I've taken care of that cancellation. Would you like to reserve a table for a different day or time?
+When was your reservation booked?
+Is that the reservation for tomorrow at 7:30 pm?

@@ -1,0 +1,1 @@
+['<b>A:</b> I love your blue bag.', '<b>B:</b> Thank you, I just bought it.', '<b>A:</b> It looks very expensive.']"

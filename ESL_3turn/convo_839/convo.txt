@@ -1,0 +1,1 @@
+['<b>A:</b> I was fired from my part-time job.', '<b>B:</b> Why did you get fired?', '<b>A:</b> My boss said I was too irresponsible.']"

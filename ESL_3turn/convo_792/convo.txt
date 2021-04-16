@@ -1,0 +1,1 @@
+['<b>A:</b> Is there a doctor on call?', '<b>B:</b> What seems to be the problem?', ""<b>A:</b> My husband is having chest pain. I think it's a heart attack.""]"

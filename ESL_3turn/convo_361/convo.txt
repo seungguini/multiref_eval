@@ -1,0 +1,1 @@
+['<b>A:</b> This is 911. What is your emergency?', '<b>B:</b> I think my wife just had a stroke or a heart attack.', '<b>A:</b> Can you describe her symptoms?']"

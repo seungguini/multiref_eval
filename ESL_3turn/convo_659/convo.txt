@@ -1,0 +1,1 @@
+['<b>A:</b> What are you going to do this weekend?', ""<b>B:</b> I haven't made any solid plans yet. Why do you ask?"", ""<b>A:</b> There's this event at a bookstore downtown I was thinking of checking out.""]"

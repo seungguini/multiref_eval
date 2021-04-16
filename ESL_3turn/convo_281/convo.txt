@@ -1,0 +1,1 @@
+[""<b>A:</b> What's the minimum balance requirement to open a checking account?"", '<b>B:</b> For our basic checking account you need to maintain a $50 minimum.', '<b>A:</b> What other types of accounts are there?']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Does it snow in your hometown?', ""<b>B:</b> Sometimes, when it's very cold."", ""<b>A:</b> I've never seen snow. What is it like?""]"

@@ -1,0 +1,1 @@
+['<b>A:</b> This is Joseph Walters, the inspector.', ""<b>B:</b> Hello, Joseph. I'm the buyer, Mrs. Smith"", ""<b>A:</b> Hello, Mrs. Smith. I've done a preliminary check of the property.""]"

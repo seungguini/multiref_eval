@@ -1,0 +1,1 @@
+['<b>A:</b> Beer is a powerful drug.', '<b>B:</b> So are cigarettes.', '<b>A:</b> Which would you prefer?']"

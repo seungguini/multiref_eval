@@ -1,0 +1,1 @@
+['<b>A:</b> At what time does the Montebello bus leave?', '<b>B:</b> It leaves every ten minutes.', '<b>A:</b> Do you know when the next one is coming?']"

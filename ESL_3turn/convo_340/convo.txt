@@ -1,0 +1,1 @@
+['<b>A:</b> David did not come to work again today.', '<b>B:</b> He must be very sick to be absent a whole week.', '<b>A:</b> My sister made him some soup yesterday.']"

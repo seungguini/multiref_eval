@@ -1,0 +1,11 @@
+You have two savings accounts.  Which one do you want to use?
+Alright, give me one second.
+I can take care of that for you.
+OK we can do that for you.
+You don't have enough in your savings.
+I'll be glad to do that for you
+You don't have $100 in your savings account.
+No problem what else can we do for you today?
+Verify your checking account number for me.
+Will that be all for today?
+Anything else you need today?

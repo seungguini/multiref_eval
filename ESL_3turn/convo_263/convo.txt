@@ -1,0 +1,1 @@
+['<b>A:</b> Excuse me. Can I borrow your fabric softener?', '<b>B:</b> Of course, take as much as you need.', ""<b>A:</b> Thank you. You're very kind.""]"

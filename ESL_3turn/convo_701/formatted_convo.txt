@@ -1,0 +1,1 @@
+Does this hat match my suit?</s> Well, it's the same color.<\s> That's good enough for me.

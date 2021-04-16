@@ -1,0 +1,1 @@
+['<b>A:</b> Excuse me. I would like to get a transfer.', '<b>B:</b> Do you have your day pass with you?', ""<b>A:</b> It's a month pass. Is that okay?""]"

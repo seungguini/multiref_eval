@@ -1,0 +1,8 @@
+Do you have a first aid kit?
+How did you cut yourself?
+Do you need stitches?
+Do you have any ice?
+Do you need stitches?
+Want a bandaid?
+What did you cut yourself with?
+Apply pressure.

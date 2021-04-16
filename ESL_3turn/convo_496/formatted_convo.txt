@@ -1,0 +1,1 @@
+What time is it?</s> The sun just rose.<\s> How many more hours are left?

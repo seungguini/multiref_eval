@@ -1,0 +1,1 @@
+Is there a doctor on call?</s> What seems to be the problem?<\s> My husband is having chest pain. I think it's a heart attack.

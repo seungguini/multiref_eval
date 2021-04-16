@@ -1,0 +1,1 @@
+There are so many bus stops!</s> Each bus has a specific stop it goes to.<\s> How do I know which stop to wait at?

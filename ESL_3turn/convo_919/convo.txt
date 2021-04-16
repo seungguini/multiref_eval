@@ -1,0 +1,1 @@
+['<b>A:</b> My fingers hurt.', '<b>B:</b> Why do they hurt?', '<b>A:</b> I type too much.']"

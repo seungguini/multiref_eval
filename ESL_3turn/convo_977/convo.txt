@@ -1,0 +1,1 @@
+['<b>A:</b> Hello, my name is Sally. I am hoping you could help me.', ""<b>B:</b> Of course I can, that's what I'm here for."", ""<b>A:</b> I want to look for a job, but I don't have Internet access at home.""]"

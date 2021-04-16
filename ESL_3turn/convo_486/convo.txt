@@ -1,0 +1,1 @@
+['<b>A:</b> You sure are buying a lot of snacks.', ""<b>B:</b> That's because I'm going on a long car trip."", '<b>A:</b> Where are you driving to?']"

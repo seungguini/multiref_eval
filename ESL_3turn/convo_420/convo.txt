@@ -1,0 +1,1 @@
+['<b>A:</b> Why are some apples green and others red?', ""<b>B:</b> Won't the green ones turn red later?"", '<b>A:</b> No, I think they will always stay green.']"

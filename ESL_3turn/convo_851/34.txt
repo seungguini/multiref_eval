@@ -1,0 +1,8 @@
+Did you remember to recharge it?
+Do you have cash?
+Here, you can use mine.
+Do you have cash on you?
+I'm not sure what the problem is.
+Maybe the reader's broken.
+That's fine this time.  Get on.
+That's sucks.

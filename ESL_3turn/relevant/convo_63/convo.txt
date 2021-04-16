@@ -1,0 +1,1 @@
+['<b>A:</b> Did you hear about the ball player?', '<b>B:</b> The home run hitter on drugs?', '<b>A:</b> He said a doctor helped him with a personal problem.']"

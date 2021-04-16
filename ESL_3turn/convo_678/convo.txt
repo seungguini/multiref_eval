@@ -1,0 +1,1 @@
+['<b>A:</b> Hi John, this is Katy.', ""<b>B:</b> It's so nice to hear your voice."", '<b>A:</b> I just wanted to call you and thank you for the lovely time last Friday.']"

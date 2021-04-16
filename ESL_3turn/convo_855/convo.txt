@@ -1,0 +1,1 @@
+[""<b>A:</b> Tell me about the apartment's safety features."", '<b>B:</b> What would you like to know?', '<b>A:</b> Do the front and back door equip with locks?']"

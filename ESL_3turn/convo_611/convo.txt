@@ -1,0 +1,1 @@
+[""<b>A:</b> That was an excellent meal. Don't you think so, Judy?"", '<b>B:</b> Absolutely! I especially liked the dessert.', '<b>A:</b> Yes, me too. That chocolate cake was delicious.']"

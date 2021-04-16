@@ -1,0 +1,1 @@
+['<b>A:</b> We think your leg may be broken.', '<b>B:</b> How will you know for sure?', ""<b>A:</b> We're going to take you to Radiology to get it x-rayed now.""]"

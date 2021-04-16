@@ -1,0 +1,1 @@
+['<b>A:</b> My son broke a window yesterday.', '<b>B:</b> How did he do that?', '<b>A:</b> He said he was practicing his pitching.']"

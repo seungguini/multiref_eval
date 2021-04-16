@@ -1,0 +1,1 @@
+['<b>A:</b> Hello, I would like to schedule an appointment to view the apartment.', '<b>B:</b> Sure thing. What is your name?', '<b>A:</b> My name is Lisa.']"

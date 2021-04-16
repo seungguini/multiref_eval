@@ -1,0 +1,1 @@
+I need to make an appointment to see Dr. Taylor.</s> Are you already a patient of Dr. Taylor?<\s> No, this is the first time I've been seeing him.

@@ -1,0 +1,1 @@
+['<b>A:</b> What are some of the best things to see in this city?', '<b>B:</b> If you want to go sightseeing, we have a tour that leaves from the hotel.', ""<b>A:</b> I'd rather explore the city on my own.""]"

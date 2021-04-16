@@ -1,0 +1,1 @@
+['<b>A:</b> Good afternoon. Are you the person renting out the apartment?', '<b>B:</b> Yes, I am. What can I do for you?', ""<b>A:</b> I'm interested in viewing the apartment.""]"

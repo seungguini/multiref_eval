@@ -1,0 +1,1 @@
+['<b>A:</b> Everything is going wrong today.', '<b>B:</b> Well, at least the weather is nice.', '<b>A:</b> Oh, yeah. Imagine if it had rained like they said it would.']"

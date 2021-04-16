@@ -1,0 +1,1 @@
+['<b>A:</b> The floor to my apartment is badly damaged.', ""<b>B:</b> I'm sorry to hear that. How bad is it?"", ""<b>A:</b> It's practically falling apart.""]"

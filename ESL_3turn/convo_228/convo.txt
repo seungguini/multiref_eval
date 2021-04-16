@@ -1,0 +1,1 @@
+['<b>A:</b> I would like to cash this check.', '<b>B:</b> Did you endorse the check?', '<b>A:</b> What does endorse mean?']"

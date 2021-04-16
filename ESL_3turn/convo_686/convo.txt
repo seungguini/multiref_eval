@@ -1,0 +1,1 @@
+[""<b>A:</b> I'd like to make a withdrawal."", '<b>B:</b> Will that be from your checking or savings account?', ""<b>A:</b> I don't have a savings account.""]"

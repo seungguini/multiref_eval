@@ -1,0 +1,1 @@
+I am a nurse.</s> Why didn't you want to become a doctor?<\s> Doctors have to go to school longer.

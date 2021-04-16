@@ -1,0 +1,1 @@
+['<b>A:</b> I have five classes and 40 hours of work weekly.', '<b>B:</b> Your life is so stressful.', '<b>A:</b> Sadly, it is.']"

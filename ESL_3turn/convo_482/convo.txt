@@ -1,0 +1,1 @@
+['<b>A:</b> Hello, may I speak to Susan, please?', '<b>B:</b> Yes, this is Susan.', '<b>A:</b> This is Mr. Jones from the ABC Company.']"

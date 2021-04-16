@@ -1,0 +1,1 @@
+['<b>A:</b> TV news is so stupid.', ""<b>B:</b> They shouldn't even call it news."", '<b>A:</b> Last night they told us about a cat in a sofa.']"

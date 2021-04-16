@@ -1,0 +1,1 @@
+['<b>A:</b> I see that former President Bush is at a conference.', ""<b>B:</b> Yes. He's telling jokes about his eight years as president."", '<b>A:</b> Yes, those eight years were a lot of fun for everyone.']"

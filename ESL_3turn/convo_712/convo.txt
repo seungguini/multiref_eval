@@ -1,0 +1,1 @@
+['<b>A:</b> Well, we have a new president.', '<b>B:</b> But we have the same old problems.', ""<b>A:</b> Well, he's made a few changes.""]"

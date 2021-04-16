@@ -1,0 +1,1 @@
+['<b>A:</b> Hello, I wanted to ask you about car insurance prices.', '<b>B:</b> Sure thing. Please, have a seat.', '<b>A:</b> Thank you. I just bought my first car.']"

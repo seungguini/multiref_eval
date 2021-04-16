@@ -1,0 +1,1 @@
+['<b>A:</b> I just read your proposal.', '<b>B:</b> What did you think about it?', '<b>A:</b> You definitely have some good ideas.']"

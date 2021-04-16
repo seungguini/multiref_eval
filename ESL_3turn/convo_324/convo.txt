@@ -1,0 +1,1 @@
+['<b>A:</b> I need to wash my clothes.', '<b>B:</b> As a tenant of this apartment, you have access to the washer and dryer.', ""<b>A:</b> Is that so? I didn't know that.""]"

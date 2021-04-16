@@ -1,0 +1,1 @@
+[""<b>A:</b> Let's plan a vacation."", '<b>B:</b> Yes! I want to go somewhere warm.', '<b>A:</b> I was thinking of going somewhere cold and fresh.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Why are you wearing a face mask?', ""<b>B:</b> I don't want to catch anything."", ""<b>A:</b> You won't get sick from breathing fresh air.""]"

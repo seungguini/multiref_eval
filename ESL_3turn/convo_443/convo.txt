@@ -1,0 +1,1 @@
+['<b>A:</b> Before this interview starts, any questions?', '<b>B:</b> Nope, I am ready to go.', '<b>A:</b> Okay, great. Tell me about yourself.']"

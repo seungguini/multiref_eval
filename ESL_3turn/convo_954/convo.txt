@@ -1,0 +1,1 @@
+['<b>A:</b> Why is there a sticker over your webcam lens?', ""<b>B:</b> I don't trust the computer company."", ""<b>A:</b> Do you think it's spying on you?""]"

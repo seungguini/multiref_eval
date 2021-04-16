@@ -1,0 +1,8 @@
+S BOTH DOOR EQUIP WITH LOCKS
+Yes, they all have locks.
+There are deadbolts on both doors.
+Is there an alarm system?
+Yes, and the front has two locks - your apartment lock and an exterior building lock.
+Only the front door needs a passcode.
+Are there cameras on the premise?
+I'm not sure, to be honest.

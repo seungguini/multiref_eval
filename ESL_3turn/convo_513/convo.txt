@@ -1,0 +1,1 @@
+['<b>A:</b> What happens when the fire alarm rings?', '<b>B:</b> We tell our students to leave the classroom.', '<b>A:</b> Can they take their belongings?']"

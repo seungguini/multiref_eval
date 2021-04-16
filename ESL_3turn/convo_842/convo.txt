@@ -1,0 +1,1 @@
+['<b>A:</b> Have you decided how you are going to vote?', '<b>B:</b> Do you mean on Measures 1, 2, and 3?', '<b>A:</b> Yes. The ones that will improve our schools, roads, and hospitals.']"

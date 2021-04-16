@@ -1,0 +1,8 @@
+thank you, and who am i speaking with.
+I'll need some further information
+I got that! Your reservation is now cancelled.
+I don't have a reservation under that name.
+I have to get my manager
+I don't see that. Is it for today?
+We cannot cancel a reservation at this point
+What was the time frame of your reservation?

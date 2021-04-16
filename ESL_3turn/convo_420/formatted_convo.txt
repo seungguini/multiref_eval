@@ -1,0 +1,1 @@
+Why are some apples green and others red?</s> Won't the green ones turn red later?<\s> No, I think they will always stay green.

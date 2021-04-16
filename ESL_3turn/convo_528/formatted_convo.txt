@@ -1,0 +1,1 @@
+I lost my new pen.</s> Where did you lose it?<\s> I don't know.

@@ -1,0 +1,1 @@
+Should I ask Nancy out or not?</s> You should not.<\s> Why shouldn't I?

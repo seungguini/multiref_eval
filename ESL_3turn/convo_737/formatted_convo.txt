@@ -1,0 +1,1 @@
+How many roommates do you have?</s> There are five of us in total.<\s> Wow! Don't you ever fight?

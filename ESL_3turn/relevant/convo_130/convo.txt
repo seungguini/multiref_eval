@@ -1,0 +1,1 @@
+['<b>A:</b> I love playing all of these old fashioned games!', ""<b>B:</b> Me, too! Too bad it's so expensive."", ""<b>A:</b> I wish they'd cost nickels instead of quarters.""]"

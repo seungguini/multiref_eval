@@ -1,0 +1,1 @@
+['<b>A:</b> I hope this neighborhood is more to your liking.', '<b>B:</b> Yes, it definitely is.', ""<b>A:</b> It's a little more money, but I think it's a great fit for you.""]"

@@ -1,0 +1,1 @@
+['<b>A:</b> You sure bought a lot of Christmas lights!', '<b>B:</b> I want the house to be shining this Christmas!', '<b>A:</b> Do all of the houses on the block decorate?']"

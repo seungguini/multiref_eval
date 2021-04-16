@@ -1,0 +1,1 @@
+[""<b>A:</b> Thank you for coming in today. I'll see you next week."", '<b>B:</b> Excuse me, instructor. May I speak with you for a moment?', '<b>A:</b> Sure thing, Mr. Davis. What can I help you with?']"

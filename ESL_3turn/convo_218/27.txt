@@ -1,0 +1,8 @@
+OK can you fill this out?
+I need you to do a little paperwork for me.
+What kind of card do you want?
+Do you have your ID on you?
+Do you have any kind of ID with you?
+Do you live in the county?
+Are you a student here?
+Did you have one elsewhere?

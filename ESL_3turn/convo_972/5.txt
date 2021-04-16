@@ -1,0 +1,8 @@
+Can I ask why you're cancelling?
+I'll need some further information
+I got that! Your reservation is now cancelled.
+ok and can you confirm your name please?
+I don't see that. Is it for today?
+We cannot cancel a reservation at this point
+When was your reservation booked?
+What was the time frame of your reservation?

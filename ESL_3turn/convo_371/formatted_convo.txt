@@ -1,0 +1,1 @@
+This is a huge library.</s> Yes, it has lots of rooms and lots of space.<\s> And lots of books.

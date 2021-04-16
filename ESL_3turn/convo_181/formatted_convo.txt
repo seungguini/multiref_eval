@@ -1,0 +1,1 @@
+Where do I buy my bus ticket?</s> You buy it in the bus.<\s> Isn't there a station?

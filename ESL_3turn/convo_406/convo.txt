@@ -1,0 +1,1 @@
+['<b>A:</b> I checked the whole car, and it has some problems.', '<b>B:</b> What kind of problems does it have?', '<b>A:</b> The brakes need to be replaced, as well as the power steering.']"

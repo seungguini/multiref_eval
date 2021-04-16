@@ -1,0 +1,1 @@
+['<b>A:</b> Did you feel the earthquake last night?', '<b>B:</b> Yes, the whole house was shaking!', '<b>A:</b> I was afraid the windows would shatter!']"

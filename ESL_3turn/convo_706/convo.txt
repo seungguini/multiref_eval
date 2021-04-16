@@ -1,0 +1,1 @@
+['<b>A:</b> Did you hear about the community college?', '<b>B:</b> No. What about it?', ""<b>A:</b> It's offering summer courses.""]"

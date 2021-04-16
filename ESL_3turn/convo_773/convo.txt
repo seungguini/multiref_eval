@@ -1,0 +1,1 @@
+['<b>A:</b> I need to stop payment on a check that I wrote.', '<b>B:</b> Do you have a copy of the check you wrote?', '<b>A:</b> Yes, I was able to get a digital copy online.']"

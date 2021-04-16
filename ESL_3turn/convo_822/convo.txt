@@ -1,0 +1,1 @@
+['<b>A:</b> I want to buy this, but $40 is too expensive.', '<b>B:</b> It is a high-quality item, and worth every penny.', '<b>A:</b> It looks a little bit dirty.']"

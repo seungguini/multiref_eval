@@ -1,0 +1,1 @@
+['<b>A:</b> Did you hear about Joseph and Michelle?', '<b>B:</b> No, what happened? Did they have a divorce?', '<b>A:</b> Oh, no. They are pregnant.']"

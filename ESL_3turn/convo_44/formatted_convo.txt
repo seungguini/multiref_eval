@@ -1,0 +1,1 @@
+I'm going to the bank.</s> What do you need to do?<\s> I need to withdraw some money.

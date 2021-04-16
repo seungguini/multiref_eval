@@ -1,0 +1,1 @@
+['<b>A:</b> When are we going to stop?', ""<b>B:</b> We'll stop at the next McDonald's."", '<b>A:</b> How far away is that?']"

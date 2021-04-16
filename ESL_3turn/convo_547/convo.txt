@@ -1,0 +1,1 @@
+['<b>A:</b> Can you tell me where the pool is?', ""<b>B:</b> It's right outside the automatic sliding doors to your left."", '<b>A:</b> Is it open 24 hours?']"

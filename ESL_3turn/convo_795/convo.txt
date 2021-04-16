@@ -1,0 +1,1 @@
+['<b>A:</b> Tiger is the greatest golfer in the world.', '<b>B:</b> You can say that again.', '<b>A:</b> But I’m worried about Tiger.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> The price of stamps goes up and up.', '<b>B:</b> I think stamps used to cost a penny.', '<b>A:</b> That was a long time ago.']"

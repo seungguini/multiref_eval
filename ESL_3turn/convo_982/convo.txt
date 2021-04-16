@@ -1,0 +1,1 @@
+['<b>A:</b> That cloud looks just like a horse!', ""<b>B:</b> No, it doesn't; it looks like a cloud!"", ""<b>A:</b> You're supposed to use your imagination.""]"

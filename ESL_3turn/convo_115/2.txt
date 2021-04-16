@@ -1,0 +1,8 @@
+Were you injured?
+What was robbed from you?
+Where did the crime oocur?
+Are you injured?
+Did the robber display a weapon?
+Tell me everything that went down.
+Are you okay? Do ou need medical assistance?
+What was taken from you?

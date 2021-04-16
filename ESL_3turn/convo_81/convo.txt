@@ -1,0 +1,1 @@
+['<b>A:</b> Take off your shoes and walk in the sand!', ""<b>B:</b> I'd rather not. I bought swim shoes."", ""<b>A:</b> That's no fun!""]"

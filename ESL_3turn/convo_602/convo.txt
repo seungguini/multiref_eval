@@ -1,0 +1,1 @@
+['<b>A:</b> My professor wrote a really bad recommendation letter for me.', '<b>B:</b> You read his recommendation letter?', ""<b>A:</b> Yeah. I couldn't resist.""]"

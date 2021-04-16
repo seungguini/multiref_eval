@@ -1,0 +1,1 @@
+['<b>A:</b> This is such a long light.', '<b>B:</b> Look how many cars are waiting in line.', '<b>A:</b> They need a left-turn arrow.']"

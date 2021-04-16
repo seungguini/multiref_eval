@@ -1,0 +1,8 @@
+It doesn't matter, it's still going to cost you.
+The smallest order is 500 checks.
+How many are you going to need?
+How many checks do you need?
+I understand, but we cannot sell you smaller amount.
+You have to purchase a minimum of 100 checks at a time.
+How many checks do you need? 100? 300?
+What is your account number?

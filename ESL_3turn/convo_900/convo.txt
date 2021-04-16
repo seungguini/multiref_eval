@@ -1,0 +1,1 @@
+['<b>A:</b> All the TV stations are going to go digital.', '<b>B:</b> Yes, that will occur next month.', '<b>A:</b> Most of them are already broadcasting in digital.']"

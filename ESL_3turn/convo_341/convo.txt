@@ -1,0 +1,1 @@
+['<b>A:</b> Golf is a silly game.', '<b>B:</b> It certainly is.', '<b>A:</b> You hit a white ball.']"

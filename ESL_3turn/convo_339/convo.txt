@@ -1,0 +1,1 @@
+['<b>A:</b> Are you ready to order?', '<b>B:</b> Yes, I think we are, thank you.', '<b>A:</b> Okay, what can I get you?']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Good morning. How are you today?', ""<b>B:</b> I'm fantastic. How about yourself?"", ""<b>A:</b> That's great! I'm good, but I feel a little sick.""]"

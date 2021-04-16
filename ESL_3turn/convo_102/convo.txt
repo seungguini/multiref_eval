@@ -1,0 +1,1 @@
+['<b>A:</b> Can I check the apartment for any damages?', '<b>B:</b> Absolutely, let me accompany you.', '<b>A:</b> Did the previous tenant maintain the apartment well?']"

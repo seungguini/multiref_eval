@@ -1,0 +1,1 @@
+['<b>A:</b> How long do you want to check that video out for?', '<b>B:</b> One week would be nice.', '<b>A:</b> That will be $5.']"

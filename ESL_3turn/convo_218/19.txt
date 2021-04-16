@@ -1,0 +1,8 @@
+Ok let me see your ID.
+Great, I can help you.
+Okay. I'm going to need for you to fill out this form.
+What kind of card do you want?
+Do you have your ID on you?
+Do you have any kind of ID with you?
+Are you a student here?
+Did you have one elsewhere?

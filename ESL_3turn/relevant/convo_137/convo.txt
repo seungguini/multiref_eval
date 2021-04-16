@@ -1,0 +1,1 @@
+['<b>A:</b> May I have a table for three?', '<b>B:</b> Of course. Here is your number.', '<b>A:</b> About how long will it take you to call this number?']"

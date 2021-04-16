@@ -1,0 +1,1 @@
+['<b>A:</b> Do you know where I could dispose of my trash?', '<b>B:</b> Yeah, there are two different colored trash cans in the back.', '<b>A:</b> Is there a difference between the two?']"

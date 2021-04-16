@@ -1,0 +1,1 @@
+['<b>A:</b> My university is passing out fliers for health insurance.', ""<b>B:</b> Mine, too. If I don't choose, I'll get Obamacare."", ""<b>A:</b> What's Obamacare?""]"

@@ -1,0 +1,8 @@
+Ok let me see your ID.
+Great, I can help you.
+What kind of card do you want?
+Do you have any kind of ID with you?
+Is this your current address?
+Do you live in the county?
+Are you a student here?
+Did you have one elsewhere?

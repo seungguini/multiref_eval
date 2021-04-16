@@ -1,0 +1,1 @@
+How many universities are you applying to?</s> I'm applying to 12 universities.<\s> Wow! That's a lot!

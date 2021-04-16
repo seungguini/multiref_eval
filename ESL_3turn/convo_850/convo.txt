@@ -1,0 +1,1 @@
+['<b>A:</b> Who did you vote for for president?', '<b>B:</b> I voted for Ralph Nader.', '<b>A:</b> Who in the world is Ralph Nader?']"

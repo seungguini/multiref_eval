@@ -1,0 +1,1 @@
+['<b>A:</b> This is the hottest summer ever.', '<b>B:</b> I bet you could fry an egg on the sidewalk!', '<b>A:</b> There has to be some way to cool off!']"

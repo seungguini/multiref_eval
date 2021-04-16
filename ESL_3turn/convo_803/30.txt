@@ -1,0 +1,8 @@
+Where are you heading?
+I have a bus map I can lend to you.
+I'm not sure.
+The transit station is on the next corner and you can get just about anywhere from there.
+Where are you trying to travel to? They all go to different destinations.
+There is a bus stop near the grocery store.
+Where do you want to go?
+The station is right there.

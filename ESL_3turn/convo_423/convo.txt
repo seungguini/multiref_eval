@@ -1,0 +1,1 @@
+['<b>A:</b> My husband died.', ""<b>B:</b> I'm sorry for you."", '<b>A:</b> Thank you.']"

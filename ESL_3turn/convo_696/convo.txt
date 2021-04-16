@@ -1,0 +1,1 @@
+[""<b>A:</b> It's so hot! Let's go swimming now!"", '<b>B:</b> We have to wait a while before swimming.', '<b>A:</b> But why? The sun is so hot!']"

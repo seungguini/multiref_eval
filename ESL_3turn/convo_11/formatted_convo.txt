@@ -1,0 +1,1 @@
+I'd like to transfer some money.</s> Between what two accounts would you like to transfer the money?<\s> I'd like to transfer $100 from my savings account to my checking account.

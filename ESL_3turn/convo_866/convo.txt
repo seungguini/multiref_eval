@@ -1,0 +1,1 @@
+['<b>A:</b> What is this returned check fee on my statement?', '<b>B:</b> It means you bounced a check.', '<b>A:</b> What does that mean?']"

@@ -1,0 +1,8 @@
+Maybe the lock is broken.
+Maybe you're still using the old key.
+Try the old key first.
+Maybe there's something wrong with it.
+Should we call a locksmith?
+Here, let me try it.
+Let me see it.
+Let me try.

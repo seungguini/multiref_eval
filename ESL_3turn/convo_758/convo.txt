@@ -1,0 +1,1 @@
+['<b>A:</b> I hope you are on your way to vote right now.', ""<b>B:</b> I am. And I'm actually voting for you!"", '<b>A:</b> Glad to hear that. I appreciate your vote.']"

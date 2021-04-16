@@ -1,0 +1,1 @@
+['<b>A:</b> Did you wipe your feet? ', '<b>B:</b> Yes, of course I wiped my feet.', '<b>A:</b> Then why is there mud on the carpet?']"

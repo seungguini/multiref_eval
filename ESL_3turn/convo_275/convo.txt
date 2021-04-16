@@ -1,0 +1,1 @@
+['<b>A:</b> Can Spotty be in the family picture, too?', '<b>B:</b> No, he cannot. Dogs are pets, not family.', '<b>A:</b> Spotty is older than I am!']"

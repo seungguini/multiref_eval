@@ -1,0 +1,1 @@
+['<b>A:</b> Are you a Democrat or a Republican?', '<b>B:</b> I am a Republican, of course.', '<b>A:</b> Republicans are conceited and judgmental!']"

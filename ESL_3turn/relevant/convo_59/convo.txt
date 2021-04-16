@@ -1,0 +1,1 @@
+['<b>A:</b> Can I get you something to drink?', '<b>B:</b> No, thanks. I just finished a whole bottle of water.', ""<b>A:</b> You won't mind if I have something then?""]"

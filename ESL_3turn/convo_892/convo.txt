@@ -1,0 +1,1 @@
+['<b>A:</b> That hotel was terrible.', '<b>B:</b> The worst in the whole world.', '<b>A:</b> The walls were so thin.']"

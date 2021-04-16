@@ -1,0 +1,1 @@
+['<b>A:</b> Oh no, another pimple on my face.', '<b>B:</b> Pimples suck.', '<b>A:</b> It seems like I get a new pimple almost every day.']"

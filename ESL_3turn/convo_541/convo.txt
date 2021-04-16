@@ -1,0 +1,1 @@
+[""<b>A:</b> Why didn't you buy a bus ticket?"", '<b>B:</b> I have a tap card.', '<b>A:</b> What is a tap card?']"

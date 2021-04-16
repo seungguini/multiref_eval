@@ -1,0 +1,1 @@
+['<b>A:</b> My dad went to Washington, D.C.', '<b>B:</b> Why did he do that?', '<b>A:</b> He was invited, along with about 90 other veterans.']"

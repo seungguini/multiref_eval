@@ -1,0 +1,8 @@
+I see it. I'll go ahead and cancel that table for 6 people at 6 p.m. this evening, under the name Carlos Jones.
+Can I ask why you're cancelling?
+I'll need some further information
+I got that! Your reservation is now cancelled.
+I don't have a reservation under that name.
+OK, I've taken care of that cancellation. Would you like to reserve a table for a different day or time?
+When was your reservation booked?
+What was the time frame of your reservation?

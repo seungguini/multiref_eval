@@ -1,0 +1,1 @@
+['<b>A:</b> I have a date with Mary tomorrow.', ""<b>B:</b> Don't you have a date with Dorothy?"", '<b>A:</b> My date with Dorothy is at 12 p.m.']"

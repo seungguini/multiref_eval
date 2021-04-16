@@ -1,0 +1,8 @@
+S BOTH DOOR EQUIP WITH LOCKS
+Yes, they all have locks.
+They do, but only the front has a key.
+There are deadbolts on both doors.
+Are you going to home most of the time?
+Yes, and a deadbolt.
+Is there an alarm system?
+Only the front door needs a passcode.

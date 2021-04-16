@@ -1,0 +1,1 @@
+['<b>A:</b> My parents go to church every Sunday.', '<b>B:</b> They trust in God.', '<b>A:</b> They hope they will go to heaven.']"

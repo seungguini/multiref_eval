@@ -1,0 +1,1 @@
+It's been very sunny lately, hasn't it?</s> Yes, it has. Some rain would be very nice.<\s> I don't think it will rain for quite some time.

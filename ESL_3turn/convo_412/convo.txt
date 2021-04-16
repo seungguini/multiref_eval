@@ -1,0 +1,1 @@
+['<b>A:</b> I hope I win the lotto.', '<b>B:</b> Your chances are very small.', ""<b>A:</b> But you can't win if you don't play.""]"

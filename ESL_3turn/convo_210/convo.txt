@@ -1,0 +1,1 @@
+['<b>A:</b> I have never bought a bus pass before. Do you know how?', '<b>B:</b> Yes I do. You can buy it from the bus driver.', '<b>A:</b> What kinds of bus passes do they have?']"

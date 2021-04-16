@@ -1,0 +1,1 @@
+['<b>A:</b> Have you ever been to that popular hot dog stand?', '<b>B:</b> No, I have not.', '<b>A:</b> My friends said the hot dogs are really great.']"

@@ -1,0 +1,1 @@
+['<b>A:</b> Hello, may I please talk to a store manager?', '<b>B:</b> Yes. What seems to be the problem?', '<b>A:</b> I scheduled some furniture to be delivered today.']"
